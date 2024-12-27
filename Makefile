@@ -2,6 +2,7 @@
 # GLOBALS                                                                       #
 #################################################################################
 
+# Test comment
 PROJECT_DIR := $(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
 PROJECT_NAME = ThinkStats2
 PYTHON_VERSION = 3.10
